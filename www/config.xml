@@ -6,10 +6,10 @@
         id        = "com.phonegap.erpsoftware"
         version   = "1.0.0">
 
-    <name>MynewHelloWOrldApp</name>
+    <name>Erp Software</name>
 
     <description>
-        This is my new hello world appc
+        This is erp software app
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
